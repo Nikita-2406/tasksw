@@ -1,44 +1,5 @@
-
-
-.header {
-    background-color: #252525;
-    display: flex;
-    color: white;
-    align-items: center;
-    justify-content: space-around;
-    padding: 15px;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.header.companu__name {
-    font-size: 50px;
-    font-weight: 600;
-}
-
-.header.name_1 {
-    color: #9823ff;
-}
-
-
-.header.header.navigate {
-    list-style-type: none;
-    display: flex;
-}
-
-.header.elem__navigate {
-    margin: 0 100px;
-}
-
-
-
-a {
-    text-decoration: none;
-    color: #9823ff;
-}
-
 body {
-    background-color: #9823ff;
+    background-color: #49e1f2;
     margin: 0;
     padding: 0;
 }
